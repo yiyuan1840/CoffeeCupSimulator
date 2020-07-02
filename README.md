@@ -1,6 +1,6 @@
 # CoffeeCupSimulator
 Python Simulator to Evaluate Coffee Cup Design Performance 
-Place Holder
+
 
 ## Coffee Cup Design Performance Visualization
 ![GitHub Logo](images/result.png)
