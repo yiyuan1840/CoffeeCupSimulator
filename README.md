@@ -2,7 +2,7 @@
 Python Simulator to Evaluate Coffee Cup Design Performance 
 Place Holder
 
-## Coffee Cup Design Performance Visulizer
+## Coffee Cup Design Performance Visualizer
 ![GitHub Logo](images/result.png)
 
 ## Simulated Coffee Temperature Profile for Each Design Scenario
